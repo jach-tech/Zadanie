@@ -1,0 +1,331 @@
+body 
+{
+    font-family: Arial;
+    color: #333;
+    background-color: #f8f8f8;
+	font-family: 'Lato', sans-serif;
+}
+
+#nawigacja-gora
+{ 	
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	font-weight:700;
+	color: black;
+	font-size:20px;
+	width:1200px;
+}
+
+#nawigacja-gora a:hover, a:active
+{
+	color: #32b97e;
+	margin:3px;
+}  
+
+#nawigacja-gora a:link, a:visited
+{
+	color: black;
+	margin:3px;
+	text-decoration:none;
+}
+
+#kontener-glowny
+{
+	margin:10px;
+	box-shadow: 0px 1px 4px gray;
+	border-radius:5px;
+	margin-left:auto;
+	margin-right:auto;
+	width:1200px;
+	height:402px;
+	text-align: center;
+}
+
+#nawigacja-lewo
+{
+	text-align:left;
+	font-size:16px;
+	width:240px;
+	font-weight:700;
+	line-height:160%;
+	padding:14px;
+	float:left;
+	height:238px;
+}
+
+#nawigacja-lewo a:hover, a:active
+{
+	color: #32b97e;
+}  
+
+#nawigacja-lewo a:link, a:visited
+{
+	color: black;
+	text-decoration:none;
+}
+
+#kontener-polecane1
+{
+	width:930px;
+	border-left:solid silver 2px;
+	height:256px; 
+	float:left;	
+}
+
+.dol1, .prawo1
+{
+	font-size:12px;
+}
+
+#kontener_karma_dla_psow2
+{	
+	width:720px;
+	height:239px;
+	float:left;		
+}
+
+#kontener_karma_dla_psow3
+{
+	width:210px;
+	border-left:2px silver solid;
+	float:left;
+}
+#napis1{
+	margin-top:10px;
+	width:930px;
+	font-weight:400;
+	text-align:center;
+	font-size:14px;
+}
+
+#napis2
+{	
+	margin-top:10px;
+	width:732px;
+	font-weight:400;
+	text-align:center;
+	font-size:14px;
+	float:left;
+}
+#kontener_karma_dla_psow1
+{
+	display:none;
+}
+
+#kontener-polecane1
+{
+	display:no1ne;
+}
+
+#Zabawki_dla_psow_kontener1
+{	
+	display:none;
+}
+
+.Kategoria
+{
+	font-weight:700;
+	font-size:14px;
+	list-style-type:none;
+}
+
+.Podkategoria
+{
+	font-weight:400;
+	font-size:12px;
+	list-style-type:none;
+	margin-left:5px;
+}
+
+.Karma_dla_psow_kolumna
+{
+	text-align:left;
+	width:140px;
+	float:left;
+}
+
+#kontener_karma_dla_psow3
+{
+	margin-top:-26px;
+	height:257px;
+	float:left;
+}
+
+#reklamy
+{
+	clear:both;
+	margin-top:10px;
+	padding:10px;
+	height:128px;
+}
+
+#reklama1
+{
+	width:382px;
+	float:left;
+	margin-left:300px;
+}
+
+#reklama2
+{
+	width:380px;
+	float:left;
+	margin-left:50px;	
+}
+
+#napis3
+{
+	font-weight:400;
+	text-align:center;
+	font-size:14px;
+	margin-top:30px;
+}
+
+.zdj_promocji
+{
+	float:left;
+	width:118px;
+	margin:10px;
+}
+
+.promocja
+{
+	width:130px;
+	float:left;
+	margin:10px;
+	font-size:9px;
+	font-weight:700;
+	background-color:white;
+	border-radius:5px;
+	height:190px;
+}
+
+.promocja1, .promocja2,.promocja3
+{
+	width:130px;
+	float:left;
+	background-color:white;
+	margin:10px;
+	font-size:9px;
+	font-weight:700;
+	border-radius:5px;
+	height:210px;
+}
+
+.promocja1:hover, .promocja2:hover, .promocja3:hover
+{
+	border: 1px solid #32b97e;
+	width:130px;
+	height:210px;
+}
+
+#promocje
+{
+	float:left;
+	margin-left:15px;
+}
+
+#sprzedarz
+{
+	font-size:7px;
+	background-color:#2ac17f;
+	color:white;
+	border:0px;
+	padding:5px;
+	border-radius:25px;
+}
+
+#cena
+{
+	font-size:14px;
+	color:#f25b2a;
+	line-height:200%;
+	
+}
+#cena_wazna, #cena_wazna1, #cena_wazna2, #cena_wazna3 
+{
+	font-size:14px;
+	color:#f25b2a;
+	line-height:200%;
+}
+
+#cena
+{
+	font-size:14px;
+	color:#f25b2a;
+	line-height:200%;
+	
+}
+
+#strzalka1{
+	float:left;
+	margin-top:100px;
+	font-size:14px;
+	margin-left:13px;
+}
+
+#strzalka2
+{
+	float:left;
+	margin-top:100px;
+	font-size:14px;
+}
+
+#napis4
+{	
+	margin-top:10px;
+	width:440px;
+	font-weight:400;
+	text-align:center;
+	font-size:14px;
+	float:left;
+}
+
+#Zabawki_dla_psow_kontener2
+{
+	float:left;
+	width:440px;
+	margin-left:-20px;
+	height:266px;
+	border-right:silver solid 2px;
+}
+
+#Zabawki_dla_psow_kontener3
+{
+	width:498px;
+	height:206px;
+	float:left;
+	margin-left:8px;
+	
+}
+
+#napis5
+{	
+	margin-top:30px;
+	width:490px;
+	font-weight:400;
+	text-align:center;
+	font-size:14px;
+	float:left;
+}
+
+#strzalka3
+{
+	float:left;
+	margin-top:100px;
+	font-size:14px;
+	width:10px;
+	margin-right:10px;
+}
+
+#strzalka4
+{
+	float:left;
+	margin-top:100px;
+	font-size:14px;
+}
+#kontener-glowny{
+	display:none;
+}
